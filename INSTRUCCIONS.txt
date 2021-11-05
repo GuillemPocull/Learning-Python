@@ -1,0 +1,5 @@
+Per instalar python: https://www.youtube.com/watch?v=6Vr9ZUntCyE
+
+Per obrir jupyter notebook (crec que prefereixo el lab...). CMD --> jupyter notebook
+
+Per obrir jupyterlab.. CMD --> jupyter lab
